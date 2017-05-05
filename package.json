@@ -1,0 +1,14 @@
+{
+  "name": "starter-express",
+  "version": "0.0.1",
+  "description": "A starter project for node.js express applications.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Buchea",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
